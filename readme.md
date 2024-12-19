@@ -1,2 +1,2 @@
 # git exercises project 
-this is the first mobule 
+This is project will be used for series  of git exercises 
